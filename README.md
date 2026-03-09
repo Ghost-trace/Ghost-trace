@@ -19,33 +19,43 @@ Learning. Breaking. Securing.
 
 ### 🧰 Tools & Technologies
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux">
+<img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge">
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ghost-trace&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ghost-trace&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
-### 🔥 Streak Stats
+### 🔥 GitHub Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghost-trace&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghost-trace&theme=tokyonight"/>
+</p>
 
 ---
 
 ### 🧪 TryHackMe
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png)](https://tryhackme.com/p/SivaNandan)
+<p align="center">
+<a href="https://tryhackme.com/p/SivaNandan">
+<img src="https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png"/>
+</a>
+</p>
 
 ---
 
-### 📫 Connect
+### 📫 Connect With Me
 
 - GitHub: https://github.com/Ghost-trace
 - TryHackMe: https://tryhackme.com/p/SivaNandan
