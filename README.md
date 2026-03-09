@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">👻 Ghost-trace</h1>
+<h3 align="center">Cybersecurity Enthusiast | Web Security | CTF Player</h3>
 
-<!--
-**Ghost-trace/Ghost-trace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Learning. Breaking. Securing.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔐 Cybersecurity student
+- 🧪 Practicing labs on **TryHackMe**
+- 🛠 Building **Python security tools**
+- 🎯 Focused on **Web Application Security**
+- 🚩 Active **CTF learner**
+
+---
+
+### 🧰 Tools & Technologies
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ghost-trace&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghost-trace&theme=tokyonight)
+
+---
+
+### 🧪 TryHackMe
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/launcher.png)](https://tryhackme.com/p/launcher)
+
+---
+
+### 📫 Connect
+
+- GitHub: https://github.com/Ghost-trace
+- TryHackMe: https://tryhackme.com/p/launcher
+
+---
