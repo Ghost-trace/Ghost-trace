@@ -41,13 +41,13 @@ Learning. Breaking. Securing.
 
 ### 🧪 TryHackMe
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/launcher.png)](https://tryhackme.com/p/launcher)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png)](https://tryhackme.com/p/SivaNandan)
 
 ---
 
 ### 📫 Connect
 
 - GitHub: https://github.com/Ghost-trace
-- TryHackMe: https://tryhackme.com/p/launcher
+- TryHackMe: https://tryhackme.com/p/SivaNandan
 
 ---
