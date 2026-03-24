@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/p/SivaNandan">
-    <img src="https://img.shields.io/badge/TRYHACKME-Profile-red?style=for-the-badge&logo=tryhackme"/>
+    <img src="https://img.shields.io/badge/TRYHACKME-red?style=for-the-badge&logo=tryhackme"/>
   </a>
 </p>
 
@@ -26,25 +26,17 @@
 
 ## 🧠 About Me
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png" />
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png" width="260"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 
 Cybersecurity student specializing in **penetration testing** and **web application security**, with hands-on experience through internships at **Kerala Police Cyber Cell** and **EyeQ Dot Net Pvt. Ltd**.
 
-I actively perform vulnerability assessment and exploitation of real-world attack vectors including **XSS, SSRF, SQL Injection, IDOR, authentication bypass, and command injection** using industry tools and practical lab environments.
+I actively perform vulnerability assessment and exploitation of real-world attack vectors including **XSS, SSRF, SQL Injection, IDOR, authentication bypass, and command injection**.
 
 🔹 Strong foundation in **OWASP Top 10 vulnerabilities**
 🔹 Built tools like **Wordlist Generator** and **Adversary Simulation Agent**
 🔹 Developed a **CTF machine** and a **vulnerable web application**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240"/>
-</p>
 
 Focused on offensive security and continuous hands-on learning.
 
@@ -52,20 +44,22 @@ Focused on offensive security and continuous hands-on learning.
 
 ## 🔐 Cybersecurity & Penetration Testing
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-007ACC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hydra-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenVAS-2ECC71?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Wifite-888888?style=flat-square"/>
-  <img src="https://img.shields.io/badge/theHarvester-E67E22?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Maltego-1F4E79?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-F39C12?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-27AE60?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQLmap-C0392B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Gobuster-2980B9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/WPScan-34495E?style=flat-square"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" title="Kali Linux"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Scripting"/>
+  <img src="https://img.shields.io/badge/Nmap-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wireshark-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hydra-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenVAS-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wifite-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/theHarvester-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Maltego-darkblue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLmap-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gobuster-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/WPScan-darkblue?style=flat-square"/>
 </p>
 
 ---
@@ -83,10 +77,10 @@ Focused on offensive security and continuous hands-on learning.
 ### 🔌 Hardware & IoT
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif"/>
   <img src="https://img.shields.io/badge/ESP8266-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi"/>
 </p>
 
 ---
@@ -94,9 +88,9 @@ Focused on offensive security and continuous hands-on learning.
 ### 🖥️ Operating Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows"/>
 </p>
 
 ---
@@ -105,7 +99,6 @@ Focused on offensive security and continuous hands-on learning.
 
 🔐 **Wordlist Generator**
 → Custom tool for password attacks & automation
-🔗 https://github.com/Ghost-trace/wordlist-generator
 
 🕵️ **Adversary Simulation Agent**
 → Simulates attacker behavior with C2 communication
@@ -121,13 +114,10 @@ Focused on offensive security and continuous hands-on learning.
 ## ⚡ Currently Building
 
 🌐 **Educational Web Application (Security Lab)**
-→ Platform for students to **practice and test cybersecurity skills**
-→ Includes SQL Injection, XSS, authentication flaws
-→ Focused on hands-on learning
+→ Platform for practicing real-world vulnerabilities
 
 📡 **Wireless Penetration Testing Tool**
-→ Multi-purpose tool for **WiFi, BLE, NFC, RFID security testing**
-→ Designed for automation and real-world attack simulations
+→ Covers WiFi, BLE, NFC, RFID security testing
 
 ---
 
@@ -138,6 +128,8 @@ Focused on offensive security and continuous hands-on learning.
 * 🔍 Web Security Research
 
 ---
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 
 <p align="center">
   <b>"Learning by breaking. Securing by understanding."</b>
