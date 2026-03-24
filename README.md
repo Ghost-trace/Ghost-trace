@@ -53,9 +53,6 @@ Focused on offensive security and continuous hands-on learning.
   <img src="https://cdn.simpleicons.org/wireshark" width="40" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/gnu" width="40" title="Hydra"/>
   <img src="https://cdn.simpleicons.org/greenbone" width="40" title="OpenVAS"/>
-  <img src="https://cdn.simpleicons.org/wifi" width="40" title="Aircrack-ng"/>
-  <img src="https://cdn.simpleicons.org/wifite" width="40" title="Wifite"/>
-  <img src="https://cdn.simpleicons.org/theHarvester" width="40" title="theHarvester"/>
   <img src="https://cdn.simpleicons.org/apachekafka" width="40" title="Maltego"/>
   <img src="https://cdn.simpleicons.org/burpsuite" width="40" title="Burp Suite"/>
   <img src="https://cdn.simpleicons.org/owasp" width="40" title="OWASP ZAP"/>
