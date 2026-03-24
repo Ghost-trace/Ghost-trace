@@ -32,7 +32,7 @@ Cybersecurity student specializing in **penetration testing** and **web applicat
 
 I actively perform vulnerability assessment and exploitation of real-world attack vectors including **XSS, SSRF, SQL Injection, IDOR, authentication bypass, and command injection**.
 
-<p align="left">
+<p align="right">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/> 
 </p>
 
