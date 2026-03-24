@@ -32,13 +32,19 @@ Cybersecurity student specializing in **penetration testing** and **web applicat
 
 I actively perform vulnerability assessment and exploitation of real-world attack vectors including **XSS, SSRF, SQL Injection, IDOR, authentication bypass, and command injection**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-</p>
+<td width="40%" align="center">
 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+
+</td>
+
+<td width="60%" valign="top">
+  
 🔹 Strong foundation in **OWASP Top 10 vulnerabilities**<br>
 🔹 Built tools like **Wordlist Generator** and **Adversary Simulation Agent**<br>
 🔹 Developed a **CTF machine** and a **vulnerable web application**<br>
+
+</td>
 
 Focused on offensive security and continuous hands-on learning.
 
