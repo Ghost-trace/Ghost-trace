@@ -52,7 +52,6 @@ Focused on offensive security and continuous hands-on learning.
   <img src="https://img.icons8.com/color/48/nmap.png" title="Nmap"/>
   <img src="https://cdn.simpleicons.org/wireshark" width="40" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/gnu" width="40" title="Hydra"/>
-  <img src="https://cdn.simpleicons.org/greenbone" width="40" title="OpenVAS"/>
   <img src="https://cdn.simpleicons.org/apachekafka" width="40" title="Maltego"/>
   <img src="https://cdn.simpleicons.org/burpsuite" width="40" title="Burp Suite"/>
   <img src="https://cdn.simpleicons.org/owasp" width="40" title="OWASP ZAP"/>
@@ -102,18 +101,15 @@ Focused on offensive security and continuous hands-on learning.
 🕵️ **Adversary Simulation Agent**
 → Simulates attacker behavior with C2 communication
 
-🧩 **CTF Machine (TryHackMe)**
-→ Designed real-world vulnerable machine
-
-🌐 **Vulnerable Web Application**
-→ Practice lab for SQLi, XSS, authentication flaws
-
 ---
 
 ## ⚡ Currently Building
 
 🌐 **Educational Web Application (Security Lab)**
 → Platform for practicing real-world vulnerabilities
+
+🧩 **CTF Machine (TryHackMe)**
+→ Designed real-world vulnerable machine
 
 📡 **Wireless Penetration Testing Tool**
 → Covers WiFi, BLE, NFC, RFID security testing
