@@ -34,7 +34,7 @@ I actively perform vulnerability assessment and exploitation of real-world attac
 
 <table>
 <tr>
-<td width="50%">
+<td width="70%">
 
 🔹 Strong foundation in **OWASP Top 10 vulnerabilities**  
 🔹 Built tools like **Wordlist Generator** and **Adversary Simulation Agent**  
