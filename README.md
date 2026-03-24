@@ -56,7 +56,7 @@ Focused on offensive security and continuous hands-on learning.
   <img src="https://cdn.simpleicons.org/wifi" width="40" title="Aircrack-ng"/>
   <img src="https://cdn.simpleicons.org/linux" width="40" title="Wifite"/>
   <img src="https://cdn.simpleicons.org/google" width="40" title="theHarvester"/>
-  <img src="https://cdn.simpleicons.org/maltego" width="40" title="Maltego"/>
+  <img src="https://cdn.simpleicons.org/apachekafka" width="40" title="Maltego"/>
   <img src="https://cdn.simpleicons.org/burpsuite" width="40" title="Burp Suite"/>
   <img src="https://cdn.simpleicons.org/owasp" width="40" title="OWASP ZAP"/>
   <img src="https://cdn.simpleicons.org/mysql" width="40" title="SQLmap"/>
