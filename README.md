@@ -36,9 +36,9 @@ I actively perform vulnerability assessment and exploitation of real-world attac
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 </p>
 
-🔹 Strong foundation in **OWASP Top 10 vulnerabilities**
-🔹 Built tools like **Wordlist Generator** and **Adversary Simulation Agent**
-🔹 Developed a **CTF machine** and a **vulnerable web application**
+🔹 Strong foundation in **OWASP Top 10 vulnerabilities**<br>
+🔹 Built tools like **Wordlist Generator** and **Adversary Simulation Agent**<br>
+🔹 Developed a **CTF machine** and a **vulnerable web application**<br>
 
 Focused on offensive security and continuous hands-on learning.
 
