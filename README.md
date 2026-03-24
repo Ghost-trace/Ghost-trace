@@ -1,63 +1,86 @@
-<h1 align="center">👻 Ghost-trace</h1>
-<h3 align="center">Cybersecurity Enthusiast | Web Security | CTF Player</h3>
+# 👻 Siva Nandan V.S
 
 <p align="center">
-Learning. Breaking. Securing.
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Penetration+Tester;CTF+Player;Top+5%25+on+TryHackMe" />
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔐 Cybersecurity student
-- 🧪 Practicing labs on **TryHackMe**
-- 🛠 Building **Python security tools**
-- 🎯 Focused on **Web Application Security**
-- 🚩 Active **CTF learner**
-
----
-
-### 🧰 Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux">
-<img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge">
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ghost-trace&show_icons=true&theme=tokyonight"/>
+  <a href="https://tryhackme.com/p/SivaNandan">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-red?style=for-the-badge&logo=tryhackme" />
+  </a>
+  <a href="https://github.com/Ghost-trace">
+    <img src="https://img.shields.io/badge/GitHub-Ghost--trace-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sivanandanvs">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🧠 About Me
+
+```diff
++ Cybersecurity student focused on offensive security
++ Ranked in Top 5% on TryHackMe
++ Experience in XSS, SSRF, SQLi, IDOR, Auth Bypass
++ Intern @ Kerala Police Cyber Cell & EyeQ Dot Net
+```
+
+---
+
+## ⚔️ Tech Stack
+
+```bash
+Languages:   Python | C | Bash
+Tools:       Burp Suite | Nmap | Nikto | Nessus | OWASP ZAP
+Web:         SQLi | XSS | CSRF | SSRF | IDOR
+OS:          Kali Linux | Windows
+```
+
+---
+
+## 🚀 Projects
+
+🔐 **Wordlist Generator**
+→ Custom tool for password attacks & CTF
+🔗 https://github.com/Ghost-trace/wordlist-generator
+
+🕵️ **Adversary Simulation Agent**
+→ Simulates attacker behavior & C2 communication
+
+🧩 **CTF Machine (TryHackMe)**
+→ Real-world vulnerable machine for pentesting
+
+🌐 **Vulnerable Web App**
+→ SQLi, XSS, Auth flaws for learning & testing
+
+---
+
+## 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghost-trace&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghost-trace&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-trace&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-### 🧪 TryHackMe
+## 🏆 Achievements
+
+* 🥇 Top 5% on TryHackMe
+* 🎯 Active CTF Player
+* 🔍 Web Security Research
+
+---
+
+## 🔗 Connect
+
+* LinkedIn → https://www.linkedin.com/in/sivanandanvs
+* TryHackMe → https://tryhackme.com/p/SivaNandan
+
+---
 
 <p align="center">
-<a href="https://tryhackme.com/p/SivaNandan">
-<img src="https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png"/>
-</a>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
-
----
-
-### 📫 Connect With Me
-
-- GitHub: https://github.com/Ghost-trace
-- TryHackMe: https://tryhackme.com/p/SivaNandan
-
----
