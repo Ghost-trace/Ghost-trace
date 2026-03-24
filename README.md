@@ -28,12 +28,11 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png" width="260"/>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-
 Cybersecurity student specializing in **penetration testing** and **web application security**, with hands-on experience through internships at **Kerala Police Cyber Cell** and **EyeQ Dot Net Pvt. Ltd**.
 
 I actively perform vulnerability assessment and exploitation of real-world attack vectors including **XSS, SSRF, SQL Injection, IDOR, authentication bypass, and command injection**.
 
+                                        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 🔹 Strong foundation in **OWASP Top 10 vulnerabilities**
 🔹 Built tools like **Wordlist Generator** and **Adversary Simulation Agent**
 🔹 Developed a **CTF machine** and a **vulnerable web application**
