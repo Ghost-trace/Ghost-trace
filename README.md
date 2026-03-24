@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Siva Nandan</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Student-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Penetration%20Tester-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CTF%20Player-blue?style=for-the-badge"/>
 </p>
@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/sivanandanvs">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://tryhackme.com/p/SivaNandan">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/>
-  </a>
 </p>
 
 ---
@@ -27,18 +24,27 @@
 ## 🧠 About Me
 
 <p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230"/>
 </p>
 
-Cybersecurity student with hands-on experience in **penetration testing** and **vulnerability assessment**, gained through internships with Kerala Police Cyber Cell and EyeQ Dot Net Pvt. Ltd.
+Cybersecurity student specializing in **penetration testing** and **web application security**, with hands-on experience gained through internships at **Kerala Police Cyber Cell** and **EyeQ Dot Net Pvt. Ltd**.
 
-I specialize in identifying and exploiting vulnerabilities such as **XSS, SSRF, SQL Injection, IDOR, and authentication flaws**, combining real-world testing with continuous CTF practice.
+I actively perform vulnerability assessment and exploitation of real-world attack vectors including **XSS, SSRF, SQL Injection, IDOR, authentication bypass, and command injection**, using industry tools and practical lab environments.
 
-🔹 Ranked in **Top 5% on TryHackMe** → https://tryhackme.com/p/SivaNandan
-🔹 Built tools like **Wordlist Generator** and **Adversary Simulation Agent**
-🔹 Developed a **CTF machine** and **vulnerable web application**
+🔹 Ranked in **Top 5% globally on TryHackMe** → https://tryhackme.com/p/SivaNandan
+🔹 Strong foundation in **OWASP Top 10 vulnerabilities and attack techniques**
+🔹 Built offensive security tools like a **Wordlist Generator** and **Adversary Simulation Agent**
+🔹 Developed a **CTF machine** and a **vulnerable web application** for hands-on learning
 
-Focused on offensive security and continuous hands-on learning.
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+</p>
+
+Focused on offensive security, continuously improving skills through CTF challenges, lab simulations, and real-world testing.
 
 ---
 
@@ -107,22 +113,5 @@ Focused on offensive security and continuous hands-on learning.
 * 🥇 Top 5% on TryHackMe
 * 🎯 Active CTF Player
 * 🔍 Web Security Research
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghost-trace&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-trace&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## ⚡ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghost-trace&theme=tokyo-night" />
-</p>
 
 ---
