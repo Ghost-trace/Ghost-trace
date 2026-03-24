@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Top 5% on TryHackMe</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=9D00FF&center=true&vCenter=true&width=600&lines=⚡+Ethical+Hacker;🔐+Penetration+Tester;💻+Cybersecurity+Researcher" />
 </p>
 
 <p align="center">
