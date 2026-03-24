@@ -1,35 +1,47 @@
-# 👻 Siva Nandan V.S
+# 👋 Hey, I'm Siva Nandan
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&section=header&text=Siva%20Nandan%20V.S&fontColor=00ff00&fontSize=35&animation=fadeIn" />
+### Cybersecurity Enthusiast | Pentester | CTF Player
+
+<p align="left">
+  <a href="mailto:sivanandan9745@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sivanandanvs">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Penetration+Tester;CTF+Player;Top+5%25+on+TryHackMe" />
-</p>
+---
+
+## 🧠 TryHackMe Profile
 
 <p align="center">
   <a href="https://tryhackme.com/p/SivaNandan">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-red?style=for-the-badge&logo=tryhackme" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png" />
   </a>
-  <a href="https://github.com/Ghost-trace">
-    <img src="https://img.shields.io/badge/GitHub-Ghost--trace-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sivanandanvs">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+</p>
+
+<p align="center">
+  <b>🏆 Ranked in Top 5% Globally</b><br>
+  <a href="https://tryhackme.com/p/SivaNandan">🔗 View My TryHackMe Profile</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-```diff
-+ Cybersecurity student focused on offensive security
-+ Ranked in Top 5% on TryHackMe
-+ Experience in XSS, SSRF, SQLi, IDOR, Auth Bypass
-+ Intern @ Kerala Police Cyber Cell & EyeQ Dot Net
-```
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+Cybersecurity student with hands-on experience in **penetration testing** and **vulnerability assessment** through internships with Kerala Police Cyber Cell and EyeQ Dot Net Pvt. Ltd.
+
+Skilled in identifying and exploiting vulnerabilities like **XSS, SSRF, SQL Injection, IDOR, and authentication flaws**, with strong practical exposure through CTF challenges and real-world testing.
+
+🔹 Built tools like Wordlist Generator & Adversary Simulation Agent
+🔹 Developed CTF machine and vulnerable web application
+
+Focused on offensive security and continuous learning.
 
 ---
 
@@ -38,15 +50,12 @@
 ### 🧑‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,bash,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,html,css" />
 </p>
 
 ---
 
 ### 🔐 Cybersecurity & Penetration Testing
-
-<details>
-<summary>🔐 Click to view complete toolkit</summary>
 
 <p>
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
@@ -57,22 +66,13 @@
   <img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge" />
 </p>
 
-</details>
-
----
-
-### ⚙️ Tools & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-</p>
-
 ---
 
 ### 🔌 Hardware & IoT
 
 <p>
   <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP8266-grey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino-teal?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge" />
 </p>
@@ -83,7 +83,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge" />
 </p>
@@ -121,14 +120,3 @@
 ![snake gif](https://github.com/Ghost-trace/Ghost-trace/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-## 🔗 Connect With Me
-
-* LinkedIn → https://www.linkedin.com/in/sivanandanvs
-* TryHackMe → https://tryhackme.com/p/SivaNandan
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-</p>
