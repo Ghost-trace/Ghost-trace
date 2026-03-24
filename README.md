@@ -1,29 +1,21 @@
-# 👋 Hey, I'm Siva Nandan
+<h1 align="center">👋 Hi, I'm Siva Nandan</h1>
 
-### Cybersecurity Enthusiast | Pentester | CTF Player
+<h3 align="center">🔐 Cybersecurity Enthusiast | 🧠 Pentester | 🎯 CTF Player</h3>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Learning+by+Breaking+%26+Securing;Web+Security+%7C+Offensive+Security;Top+5%25+on+TryHackMe" />
+</p>
+
+<p align="center">
   <a href="mailto:sivanandan9745@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sivanandanvs">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🧠 TryHackMe Profile
-
-<p align="center">
   <a href="https://tryhackme.com/p/SivaNandan">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SivaNandan.png" />
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/>
   </a>
-</p>
-
-<p align="center">
-  <b>🏆 Ranked in Top 5% Globally</b><br>
-  <a href="https://tryhackme.com/p/SivaNandan">🔗 View My TryHackMe Profile</a>
 </p>
 
 ---
@@ -31,17 +23,18 @@
 ## 🧠 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230"/>
 </p>
 
-Cybersecurity student with hands-on experience in **penetration testing** and **vulnerability assessment** through internships with Kerala Police Cyber Cell and EyeQ Dot Net Pvt. Ltd.
+Cybersecurity student with hands-on experience in **penetration testing** and **vulnerability assessment**, gained through internships with Kerala Police Cyber Cell and EyeQ Dot Net Pvt. Ltd.
 
-Skilled in identifying and exploiting vulnerabilities like **XSS, SSRF, SQL Injection, IDOR, and authentication flaws**, with strong practical exposure through CTF challenges and real-world testing.
+I specialize in identifying and exploiting vulnerabilities such as **XSS, SSRF, SQL Injection, IDOR, and authentication flaws**, combining real-world testing with continuous CTF practice.
 
-🔹 Built tools like Wordlist Generator & Adversary Simulation Agent
-🔹 Developed CTF machine and vulnerable web application
+🔹 Ranked in **Top 5% on TryHackMe** → https://tryhackme.com/p/SivaNandan
+🔹 Built tools like **Wordlist Generator** and **Adversary Simulation Agent**
+🔹 Developed a **CTF machine** and **vulnerable web application**
 
-Focused on offensive security and continuous learning.
+Focused on offensive security and continuous hands-on learning.
 
 ---
 
@@ -58,12 +51,20 @@ Focused on offensive security and continuous learning.
 ### 🔐 Cybersecurity & Penetration Testing
 
 <p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nessus-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nikto-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge" />
+  <img src="https://img.icons8.com/color/48/kali-linux.png"/>
+  <img src="https://img.icons8.com/color/48/nmap.png"/>
+  <img src="https://img.icons8.com/color/48/wireshark.png"/>
+  <img src="https://img.icons8.com/color/48/hydra.png"/>
+  <img src="https://img.icons8.com/color/48/security-configuration.png"/>
+  <img src="https://img.icons8.com/color/48/network-card.png"/>
+  <img src="https://img.icons8.com/color/48/wifi.png"/>
+  <img src="https://img.icons8.com/color/48/search.png"/>
+  <img src="https://img.icons8.com/color/48/spy.png"/>
+  <img src="https://img.icons8.com/color/48/burp-suite.png"/>
+  <img src="https://img.icons8.com/color/48/sql.png"/>
+  <img src="https://img.icons8.com/color/48/code.png"/>
+  <img src="https://img.icons8.com/color/48/wordpress.png"/>
+  <img src="https://img.icons8.com/color/48/security-shield-green.png"/>
 </p>
 
 ---
@@ -71,10 +72,10 @@ Focused on offensive security and continuous learning.
 ### 🔌 Hardware & IoT
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif" />
   <img src="https://img.shields.io/badge/ESP8266-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino-teal?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
 ---
@@ -82,9 +83,9 @@ Focused on offensive security and continuous learning.
 ### 🖥️ Operating Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
@@ -109,14 +110,8 @@ Focused on offensive security and continuous learning.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghost-trace&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-trace&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghost-trace&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-trace&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Ghost-trace/Ghost-trace/blob/output/github-contribution-grid-snake.svg)
 
 ---
