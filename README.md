@@ -59,8 +59,8 @@ Focused on offensive security and continuous hands-on learning.
   <img src="https://cdn.simpleicons.org/maltego" width="40" title="Maltego"/>
   <img src="https://cdn.simpleicons.org/burpsuite" width="40" title="Burp Suite"/>
   <img src="https://cdn.simpleicons.org/owasp" width="40" title="OWASP ZAP"/>
-  <img src="https://cdn.simpleicons.org/mysql" width="40" title="SQLmap"/>
-  <img src="https://cdn.simpleicons.org/go" width="40" title="Gobuster"/>
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gobuster-1565C0?style=for-the-badge"/>
   <img src="https://img.icons8.com/color/48/wordpress.png" title="WPScan"/>
 </p>
 
