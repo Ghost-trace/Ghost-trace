@@ -32,7 +32,10 @@ Cybersecurity student specializing in **penetration testing** and **web applicat
 
 I actively perform vulnerability assessment and exploitation of real-world attack vectors including **XSS, SSRF, SQL Injection, IDOR, authentication bypass, and command injection**.
 
-                                        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+</p>
+
 🔹 Strong foundation in **OWASP Top 10 vulnerabilities**
 🔹 Built tools like **Wordlist Generator** and **Adversary Simulation Agent**
 🔹 Developed a **CTF machine** and a **vulnerable web application**
@@ -46,19 +49,19 @@ Focused on offensive security and continuous hands-on learning.
 <p>
   <img src="https://skillicons.dev/icons?i=linux" title="Kali Linux"/>
   <img src="https://skillicons.dev/icons?i=python" title="Scripting"/>
-  <img src="https://img.shields.io/badge/Nmap-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Wireshark-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hydra-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenVAS-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Aircrack--ng-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Wifite-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/theHarvester-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Maltego-darkblue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQLmap-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Gobuster-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/WPScan-darkblue?style=flat-square"/>
+  <img src="https://img.icons8.com/color/48/nmap.png" title="Nmap"/>
+  <img src="https://img.icons8.com/color/48/wireshark.png" title="Wireshark"/>
+  <img src="https://img.icons8.com/ios-filled/50/hydra.png" title="Hydra"/>
+  <img src="https://img.icons8.com/color/48/security-checked.png" title="OpenVAS"/>
+  <img src="https://img.icons8.com/ios-filled/50/wifi.png" title="Aircrack-ng"/>
+  <img src="https://img.icons8.com/ios-filled/50/wifi-router.png" title="Wifite"/>
+  <img src="https://img.icons8.com/color/48/search.png" title="theHarvester"/>
+  <img src="https://img.icons8.com/color/48/flow-chart.png" title="Maltego"/>
+  <img src="https://img.icons8.com/color/48/burp-suite.png" title="Burp Suite"/>
+  <img src="https://img.icons8.com/color/48/shield.png" title="OWASP ZAP"/>
+  <img src="https://img.icons8.com/color/48/sql.png" title="SQLmap"/>
+  <img src="https://img.icons8.com/color/48/command-line.png" title="Gobuster"/>
+  <img src="https://img.icons8.com/color/48/wordpress.png" title="WPScan"/>
 </p>
 
 ---
