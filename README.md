@@ -131,7 +131,9 @@ Focused on offensive security and continuous hands-on learning.
 
 ---
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF1cmRvNmx4bWwyeTg0dmd5aDNlbWhjZWE0dWw5dm93djc1N2ZxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="300"/>
+<p align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc5ZnAydXU2bWk2MzF2djZmbjFidGgzMG1jeHR1OTFzNHlzcTA0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+</p>
 
 <p align="center">
   <b>"Learning by breaking. Securing by understanding."</b>
