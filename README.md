@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Siva Nandan</h1>
 
-<h3 align="center">🔐 Cybersecurity Enthusiast | 🧠 Pentester | 🎯 CTF Player</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Penetration%20Tester-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CTF%20Player-blue?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Learning+by+Breaking+%26+Securing;Web+Security+%7C+Offensive+Security;Top+5%25+on+TryHackMe" />
@@ -115,10 +119,10 @@ Focused on offensive security and continuous hands-on learning.
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ghost-trace/Ghost-trace/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghost-trace&theme=tokyo-night" />
 </p>
 
 ---
