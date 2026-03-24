@@ -51,20 +51,19 @@ Focused on offensive security and continuous hands-on learning.
 ### 🔐 Cybersecurity & Penetration Testing
 
 <p>
-  <img src="https://img.icons8.com/color/48/kali-linux.png"/>
-  <img src="https://img.icons8.com/color/48/nmap.png"/>
-  <img src="https://img.icons8.com/color/48/wireshark.png"/>
-  <img src="https://img.icons8.com/color/48/hydra.png"/>
-  <img src="https://img.icons8.com/color/48/security-configuration.png"/>
-  <img src="https://img.icons8.com/color/48/network-card.png"/>
-  <img src="https://img.icons8.com/color/48/wifi.png"/>
-  <img src="https://img.icons8.com/color/48/search.png"/>
-  <img src="https://img.icons8.com/color/48/spy.png"/>
-  <img src="https://img.icons8.com/color/48/burp-suite.png"/>
-  <img src="https://img.icons8.com/color/48/sql.png"/>
-  <img src="https://img.icons8.com/color/48/code.png"/>
-  <img src="https://img.icons8.com/color/48/wordpress.png"/>
-  <img src="https://img.icons8.com/color/48/security-shield-green.png"/>
+  <img src="https://img.shields.io/badge/Nmap-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wireshark-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hydra-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenVAS-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wifite-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/theHarvester-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Maltego-darkblue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLmap-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gobuster-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/WPScan-darkblue?style=flat-square"/>
 </p>
 
 ---
@@ -112,6 +111,14 @@ Focused on offensive security and continuous hands-on learning.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ghost-trace&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-trace&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ghost-trace/Ghost-trace/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
