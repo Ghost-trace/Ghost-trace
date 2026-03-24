@@ -50,17 +50,17 @@ Focused on offensive security and continuous hands-on learning.
   <img src="https://skillicons.dev/icons?i=linux" title="Kali Linux"/>
   <img src="https://skillicons.dev/icons?i=python" title="Scripting"/>
   <img src="https://img.icons8.com/color/48/nmap.png" title="Nmap"/>
-  <img src="https://img.icons8.com/color/48/wireshark.png" title="Wireshark"/>
-  <img src="https://img.icons8.com/ios-filled/50/hydra.png" title="Hydra"/>
-  <img src="https://img.icons8.com/color/48/security-checked.png" title="OpenVAS"/>
-  <img src="https://img.icons8.com/ios-filled/50/wifi.png" title="Aircrack-ng"/>
-  <img src="https://img.icons8.com/ios-filled/50/wifi-router.png" title="Wifite"/>
-  <img src="https://img.icons8.com/color/48/search.png" title="theHarvester"/>
-  <img src="https://img.icons8.com/color/48/flow-chart.png" title="Maltego"/>
-  <img src="https://img.icons8.com/color/48/burp-suite.png" title="Burp Suite"/>
-  <img src="https://img.icons8.com/color/48/shield.png" title="OWASP ZAP"/>
-  <img src="https://img.icons8.com/color/48/sql.png" title="SQLmap"/>
-  <img src="https://img.icons8.com/color/48/command-line.png" title="Gobuster"/>
+  <img src="https://cdn.simpleicons.org/wireshark" width="40" title="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/gnu" width="40" title="Hydra"/>
+  <img src="https://cdn.simpleicons.org/greenbone" width="40" title="OpenVAS"/>
+  <img src="https://cdn.simpleicons.org/wifi" width="40" title="Aircrack-ng"/>
+  <img src="https://cdn.simpleicons.org/linux" width="40" title="Wifite"/>
+  <img src="https://cdn.simpleicons.org/google" width="40" title="theHarvester"/>
+  <img src="https://cdn.simpleicons.org/maltego" width="40" title="Maltego"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" width="40" title="Burp Suite"/>
+  <img src="https://cdn.simpleicons.org/owasp" width="40" title="OWASP ZAP"/>
+  <img src="https://cdn.simpleicons.org/mysql" width="40" title="SQLmap"/>
+  <img src="https://cdn.simpleicons.org/go" width="40" title="Gobuster"/>
   <img src="https://img.icons8.com/color/48/wordpress.png" title="WPScan"/>
 </p>
 
