@@ -108,12 +108,12 @@ Focused on offensive security and continuous hands-on learning.
 🕵️ **Adversary Simulation Agent**
 → Simulates attacker behavior with C2 communication
 
+🌐 **Educational Web Application (Security Lab)**
+→ Platform for practicing real-world vulnerabilities
+
 ---
 
 ## ⚡ Currently Building
-
-🌐 **Educational Web Application (Security Lab)**
-→ Platform for practicing real-world vulnerabilities
 
 🧩 **CTF Machine (TryHackMe)**
 → Designed real-world vulnerable machine
